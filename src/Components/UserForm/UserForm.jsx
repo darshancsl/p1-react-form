@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import Form from "react-bootstrap/form";
+import Form from "react-bootstrap/Form";
 import FormInput from "../utils/FormInput";
 import SelectComponent from "../utils/Select";
 import Button from "react-bootstrap/Button";
