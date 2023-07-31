@@ -5,6 +5,6 @@ export const mainNavigations = [
   },
   {
     name: 'Dashboard',
-    path: '/dashboard'
+    path: 'dashboard'
   },
 ];
