@@ -1,5 +1,5 @@
 import React from 'react';
-import Form from "react-bootstrap/form";
+import Form from "react-bootstrap/Form";
 
 const FormInput = ({label, type, placeholder, handleChange, userRef, error, required}) => {
   return (
